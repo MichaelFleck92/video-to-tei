@@ -1,0 +1,4170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/MichaelFleck92/video-to-tei/main/custom-scheme.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1941-03-05-DieDeutscheWochenschauNr.5489m38s640x480Auszug_512kb.mp4</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Automatically generated from 1941-03-05-DieDeutscheWochenschauNr.5489m38s640x480Auszug_512kb.mp4 by MichaelFleck92/video-to-tei</p>
+      </sourceDesc>
+      <sourceDesc>
+        <recordingStmt>
+          <recording type="video">
+            <media url="1941-03-05-DieDeutscheWochenschauNr.5489m38s640x480Auszug_512kb.mp4" mimeType="video/mp4" xml:lang="de">
+              <desc>
+                <dimensions>
+                  <width>320</width>
+                  <height>240</height>
+                </dimensions>
+              </desc>
+            </media>
+          </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <standOff>
+    <listPerson>
+      <person xml:id="pers001">
+        <persName>Heinrich Himmler</persName>
+        <idno>www.wikidata.org/wiki/Q43067</idno>
+      </person>
+      <person xml:id="pers002">
+        <persName>Adolf Hitler</persName>
+        <idno>www.wikidata.org/wiki/Q352</idno>
+        <idno>www.imdb.com/name/nm0386944</idno>
+      </person>
+      <person xml:id="pers003">
+        <persName>Hiroshi Ōshima</persName>
+        <idno>www.wikidata.org/wiki/Q385936</idno>
+      </person>
+      <person xml:id="pers004">
+        <persName>Joachim von Ribbentrop</persName>
+        <idno>www.wikidata.org/wiki/Q101886</idno>
+      </person>
+      <person xml:id="pers005">
+        <persName>Galeazzo Ciano</persName>
+        <idno>www.wikidata.org/wiki/Q220105</idno>
+      </person>
+      <person xml:id="pers006">
+        <persName>Günther Altenburg</persName>
+        <idno>www.wikidata.org/wiki/Q215391</idno>
+      </person>
+      <personGrp role="determined-by-utterances">
+        <persName xml:id="pers007">Außenminister</persName>
+        <persName xml:id="pers008">Gaetano</persName>
+        <persName xml:id="pers009">Adolf Wagner</persName>
+        <persName xml:id="pers010">Rudi</persName>
+        <persName xml:id="pers011">Reichsleiter</persName>
+        <persName xml:id="pers012">Doktor</persName>
+        <persName xml:id="pers013">Kilo</persName>
+        <persName xml:id="pers014">Hiroshi Oshima</persName>
+        <persName xml:id="pers015">Ministerpräsidenten</persName>
+        <persName xml:id="pers016">Bulganin Hoppe</persName>
+        <persName xml:id="pers017">Baldur von Schirach</persName>
+        <persName xml:id="pers018">Reichsaußenminister</persName>
+        <persName xml:id="pers019">Christel</persName>
+        <persName xml:id="pers020">Josef Bradl</persName>
+        <persName xml:id="pers021">Professor</persName>
+        <persName xml:id="pers022">Abruzzen</persName>
+        <persName xml:id="pers023">Führer</persName>
+        <persName xml:id="pers024">Rudi Kranz</persName>
+        <persName xml:id="pers025">Ministerpräsident</persName>
+        <persName xml:id="pers026">Kraus München</persName>
+      </personGrp>
+    </listPerson>
+    <listPlace type="determined-by-utterances">
+      <place>
+        <placeName xml:id="place001">Schloss Bellevue</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place002">Wien</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place003">Münchner Hoch Brauhauses</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place004">Garmisch Partenkirchen</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place005">München</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place006">Deutschland</placeName>
+      </place>
+      <place>
+        <placeName xml:id="place007">Europa</placeName>
+      </place>
+    </listPlace>
+    <listOrg type="determined-by-utterances">
+      <org>
+        <orgName xml:id="org001">NSDAP</orgName>
+      </org>
+      <org>
+        <orgName xml:id="org002">Deutschland</orgName>
+      </org>
+      <org>
+        <orgName xml:id="org003">England</orgName>
+      </org>
+      <org>
+        <orgName xml:id="org004">Bulgarien</orgName>
+      </org>
+      <org>
+        <orgName xml:id="org005">Achsen Mächte</orgName>
+      </org>
+    </listOrg>
+    <interpGrp xml:id="sentiment">
+      <interp xml:id="NEUTRAL"/>
+    </interpGrp>
+  </standOff>
+  <text>
+    <body>
+      <div type="OpeningCredits" from="00:00:02" to="00:00:19" dur="00:00:17">
+        <div type="DetectedShot" from="00:00:00" to="00:00:00" dur="0.47"/>
+        <div type="DetectedShot" from="00:00:00" to="00:00:10" dur="9.51">
+          <div type="DetectedText" when="00:00:03">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:04">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:04">
+            <caption>WOCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:05">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:05">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+          <div type="DetectedText" when="00:00:06">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:06">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+          <div type="DetectedText" when="00:00:07">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:07">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+          <div type="DetectedText" when="00:00:08">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:08">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+          <div type="DetectedText" when="00:00:09">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:09">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+          <div type="DetectedText" when="00:00:10">
+            <caption>DIE DEUTSCHE</caption>
+          </div>
+          <div type="DetectedText" when="00:00:10">
+            <caption>WOCHENSCHAU</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:00:10" to="00:00:10" dur="0.10"/>
+        <div type="DetectedShot" from="00:00:10" to="00:00:19" dur="9.54">
+          <div type="DetectedLabel" when="00:00:10">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:10">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:11">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:11">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:11">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:11">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:11">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:11">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:12">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:12">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:12">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:12">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:12">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:12">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:13">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:13">
+            <caption>Dietrich Liphardt (РК)</caption>
+          </div>
+          <div type="DetectedText" when="00:00:13">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:13">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:13">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:13">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:14">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:14">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:14">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:14">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:14">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:14">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:15">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:15">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:15">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:15">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:15">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:15">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:16">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:16">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:16">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:16">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:16">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:16">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:17">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:17">
+            <caption>Dietrich Liphardt (РК)</caption>
+          </div>
+          <div type="DetectedText" when="00:00:17">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:17">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:17">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:17">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:18">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:18">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:18">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:18">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:18">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:18">
+            <ab>Text</ab>
+          </div>
+          <div type="DetectedText" when="00:00:19">
+            <caption>Mit Frontaufnahmen der Filmberichter:</caption>
+          </div>
+          <div type="DetectedText" when="00:00:19">
+            <caption>Dietrich Liphardt</caption>
+          </div>
+          <div type="DetectedText" when="00:00:19">
+            <caption>Bruno Lötsch</caption>
+          </div>
+          <div type="DetectedText" when="00:00:19">
+            <caption>Carl Selbach</caption>
+          </div>
+          <div type="DetectedLabel" when="00:00:19">
+            <ab>Text</ab>
+          </div>
+        </div>
+      </div>
+      <div type="Content" from="00:00:19" to="00:09:36" dur="00:09:16">
+        <div type="DetectedShot" from="00:00:19" to="00:00:29" dur="9.11">
+          <div type="DetectedLabel" when="00:00:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:21">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:21">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:22">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:22">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:22">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:22">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:23">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:24">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:25">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:26">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:26">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:26">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:26">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:27">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:28">
+            <ab>Vehicle</ab>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:00:21" to="00:00:34" dur="13.43">
+          <u xml:id="utterance001" ana="#NEUTRAL" corresp="#translation001"><w pos="ART">Der</w> <persName ref="#pers023"><w pos="NN">Führer</w></persName> <w pos="VVINF">sprach</w> <w pos="APPR">am</w> <date><w pos="CARD">24</w><w pos="XY">.</w> <w pos="NE">februar</w></date> <w pos="APPR">auf</w> <w pos="ART">der</w> <w pos="NN">Parteigründungsfeier</w> <w pos="APPR">im</w> <w pos="ADJA">historischen</w> <w pos="NN">Festsaal</w> <w pos="ART">des</w> <placeName ref="#place003"><w pos="NE">Münchner</w> <w pos="NE">Hoch</w> <w pos="NE">Brauhauses</w></placeName> <w pos="APPR">an</w> <w pos="ADJA">derselben</w> <w pos="NN">Stelle</w><w pos="XY">,</w> <w pos="APPR">an</w> <w pos="PPER">der</w> <w pos="PPER">er</w> <date><w pos="APPR">vor</w> <w pos="CARD">21</w> <w pos="NN">Jahren</w></date> <w pos="ART">das</w> <w pos="NN">Programm</w> <w pos="ART">der</w> <orgName ref="#org001"><w pos="NE">NSDAP</w></orgName> <w pos="VVINF">verkündete</w></u>
+          <ab xml:id="translation001" xml:lang="en" type="translation">On February 24, the Führer spoke at the party founding ceremony in the historic ballroom of the Munich High Brewery in the same place where he announced the NSDAP's program 21 years ago</ab>
+        </div>
+        <div type="DetectedShot" from="00:00:29" to="00:00:35" dur="6.31">
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:29">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:33">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:34">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:34">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:34">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:34">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:00:35" to="00:00:37" dur="2.40">
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:35">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:37">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:37">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:37">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:00:37" to="00:00:46" dur="8.21">
+          <div type="DetectedLabel" when="00:00:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:38">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:38">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:39">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:39">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:39">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:41">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Armored</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Army</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:42">
+            <ab>Troop</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Armored</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Army</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Troop</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Armored</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Army</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:43">
+            <ab>Troop</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>People</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:44">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Marching</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:45">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:00:46" to="00:00:50" dur="4.24">
+          <div type="DetectedLabel" when="00:00:46">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:46">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:46">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:46">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:47">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:47">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:47">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:47">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:48">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:48">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:48">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:48">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:49">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:49">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:49">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:49">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:00:49" to="00:00:58" dur="9.65">
+          <u xml:id="utterance002" ana="#NEUTRAL" corresp="#translation002"><w pos="CARD">2000</w> <w pos="ART">der</w> <w pos="ADJA">ältesten</w> <w pos="NN">Parteigenossen</w><w pos="XY">,</w> <w pos="PPER">die</w> <w pos="APPR">aus</w> <num><w pos="PPER">allen</w> <w pos="NN">Gauen</w> <w pos="ART">des</w> <w pos="NN">Reiches</w></num> <w pos="KON">und</w> <w pos="APPR">von</w> <num><w pos="PPER">allen</w> <w pos="NN">Frontabschnitten</w></num> <w pos="APPR">nach</w> <placeName ref="#place005"><w pos="NE">München</w></placeName> <w pos="VVINF">gekommen</w> <w pos="VAINF">waren</w><w pos="XY">,</w> <w pos="VAINF">wurden</w> <w pos="NN">Zeugen</w> <w pos="ART">der</w> <w pos="ADJA">großen</w> <w pos="NN">Rede</w> <w pos="ART">des</w> <w pos="NN">Führers</w><w pos="XY">.</w></u>
+          <ab xml:id="translation002" xml:lang="en" type="translation">2,000 of the oldest party comrades, who had come to Munich from all parts of the Reich and from all sections of the front, witnessed the Führer's great speech.</ab>
+        </div>
+        <div type="DetectedShot" from="00:00:50" to="00:00:57" dur="7.57">
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:50">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:51">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:52">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:52">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:52">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:52">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:53">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:53">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:53">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:53">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:54">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:54">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:54">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:54">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:55">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:56">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:57">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:00:57" to="00:01:02" dur="4.64">
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:58">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:59">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:59">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:59">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:00:59">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:00">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:00">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:00">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:00">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:01">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:01">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:01">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:01">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:02">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:02">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:02" to="00:01:08" dur="5.47">
+          <div type="DetectedLabel" when="00:01:02">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:02">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:03">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:03">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:03">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:03">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:04">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:04">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:04">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:04">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:05">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:05">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:05">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:05">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:06">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:06">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:06">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:06">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:07">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:07">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:07">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:07">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:01:05" to="00:01:09" dur="4.47">
+          <u xml:id="utterance003" ana="#NEUTRAL" corresp="#translation003"><w pos="ART">Der</w> <w pos="NN">Gauleiter</w> <w pos="ART">des</w> <w pos="NE">Traditions</w> <persName ref="#pers026"><w pos="NE">Kraus</w> <w pos="NE">München</w></persName> <w pos="NE">Oberbayern</w> <persName ref="#pers009"><w pos="NE">Adolf</w> <w pos="NE">Wagner</w></persName><w pos="XY">,</w> <w pos="VVINF">begrüßt</w> <w pos="ART">den</w> <w pos="NN">Führer</w></u>
+          <ab xml:id="translation003" xml:lang="en" type="translation">The Gauleiter of the Tradition Kraus Munich Upper Bavaria Adolf Wagner, welcomes the guide</ab>
+        </div>
+        <div type="DetectedShot" from="00:01:08" to="00:01:10" dur="2.44">
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:08">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:09">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:10">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:10">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:10">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:10" to="00:01:14" dur="4.17">
+          <div type="DetectedLabel" when="00:01:10">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:10">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:11">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:11">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:11">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:11">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:12">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:13">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:13">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:13">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:13">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:14">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:14" to="00:01:21" dur="6.97">
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:15">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:16">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:17">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:18">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:19">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:20">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:21" to="00:01:24" dur="2.47">
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:21">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:22">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:23">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:24" to="00:01:24" dur="0.63">
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:24">
+            <ab>Room</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:25" to="00:01:26" dur="1.97">
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Room</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:25">
+            <ab>Room</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Room</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:26">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:27" to="00:01:34" dur="7.44">
+          <div type="DetectedLabel" when="00:01:27">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:27">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:27">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:27">
+            <ab>Performer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:27">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:28">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:28">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:28">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:28">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:29">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:32">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:33">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:34">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:34">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:34" to="00:01:39" dur="5.41">
+          <div type="DetectedLabel" when="00:01:34">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:34">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedText" when="00:01:35">
+            <caption>NATIONAL</caption>
+          </div>
+          <div type="DetectedLabel" when="00:01:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:37">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:37">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:38">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:38">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:39">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:01:35" to="00:02:09" dur="34.66">
+          <u xml:id="utterance004" ana="#NEUTRAL" corresp="#translation004"><w pos="APPR">In</w> <w pos="ART">seiner</w> <w pos="NN">Rede</w><w pos="XY">,</w> <w pos="PPER">die</w> <w pos="ADV">auch</w> <w pos="ADV">diesmal</w> <w pos="ADV">wieder</w> <w pos="APPR">durch</w> <w pos="ART">den</w> <w pos="NN">Rund</w> <w pos="NN">Punkt</w> <w pos="APPR">über</w> <w pos="ART">die</w> <w pos="ADJA">ganze</w> <w pos="NN">Welt</w> <w pos="VVINF">verbreitet</w> <w pos="VAINF">wurde</w><w pos="XY">,</w> <w pos="VVINF">hielt</w> <w pos="ART">der</w> <persName ref="#pers023"><w pos="NN">Führer</w></persName> <w pos="ADV">noch</w> <w pos="ADV">einmal</w> <w pos="NN">Rückblick</w> <w pos="APPR">auf</w> <w pos="ART">den</w> <w pos="ADJA">gewaltigen</w> <w pos="NN">Siegeszug</w> <w pos="ART">der</w> <w pos="NN">Bewegung</w> <w pos="APPR">in</w> <w pos="ART">den</w> <date><w pos="ADJA">vergangenen</w> <w pos="CARD">21</w> <w pos="NN">Jahren</w></date> <w pos="KON">und</w> <w pos="VVINF">gab</w> <w pos="ADV">dann</w> <w pos="APPR">unter</w> <w pos="ART">dem</w> <w pos="ADJA">begeisterten</w> <w pos="NN">Jubel</w> <w pos="ART">der</w> <w pos="ADJA">alten</w> <w pos="NN">Garde</w> <w pos="ART">die</w> <w pos="NN">Parole</w> <w pos="APPR">für</w> <w pos="ART">den</w> <w pos="ADJA">kommenden</w> <w pos="NN">Entscheidungskampf</w> <w pos="APPR">mit</w> <w pos="ADJA">fanatischer</w> <w pos="NN">Zuversicht</w> <w pos="APPR">durch</w> <w pos="NN">Schloss</w> <w pos="ART">der</w> <w pos="NN">Führer</w><w pos="XY">.</w> <w pos="ART">Seine</w> <w pos="NN">Rede</w> <w pos="VVINF">sehe</w> <w pos="PPER">ich</w> <w pos="APPR">in</w> <w pos="ART">die</w> <w pos="NN">Zukunft</w><w pos="XY">,</w> <w pos="ART">die</w> <w pos="ADJA">ganze</w> <w pos="NN">Nation</w> <w pos="VAINF">ist</w> <w pos="ADV">jetzt</w> <w pos="VVINF">angetreten</w><w pos="XY">,</w> <w pos="KON">und</w> <w pos="PPER">ich</w> <w pos="VVINF">weiß</w><w pos="XY">,</w> <w pos="APPR">in</w> <w pos="ART">dem</w> <w pos="NN">Augenblick</w><w pos="XY">,</w> <w pos="APPR">in</w> <w pos="PPER">dem</w> <w pos="ART">das</w> <w pos="NN">Kommando</w> <w pos="VVINF">erschallt</w><w pos="XY">,</w> <w pos="NN">Ritt</w> <w pos="VVINF">gepasst</w> <w pos="VAINF">wird</w> <orgName ref="#org002"><w pos="NE">Deutschland</w></orgName> <w pos="VVINF">marschieren</w><w pos="XY">.</w></u>
+          <ab xml:id="translation004" xml:lang="en" type="translation">In his speech, which was once again circulated around the world by the Round Dot, the Führer once again looked back at the tremendous triumph of the movement in the past 21 years and then, amid the enthusiastic cheers of the old guard, issued the slogan for the upcoming decisive battle with fanatical confidence Fuhrer's Castle. I see his speech in the future, the whole nation has now competed, and I know that at the moment when the command resounds, Ride fits, Germany will march.</ab>
+        </div>
+        <div type="DetectedShot" from="00:01:39" to="00:01:41" dur="1.80">
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:41">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:41" to="00:01:43" dur="1.90">
+          <div type="DetectedLabel" when="00:01:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:41">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:43">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:43" to="00:01:47" dur="3.57">
+          <div type="DetectedLabel" when="00:01:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:43">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:44">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:45">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:45">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:45">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:45">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:46">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:46">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:46">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:46">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:47" to="00:01:49" dur="2.17">
+          <div type="DetectedLabel" when="00:01:47">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:47">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:48">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:48">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:48">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:48">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:49">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:49">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:49" to="00:01:51" dur="2.27">
+          <div type="DetectedLabel" when="00:01:49">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:49">
+            <ab>Performer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:49">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Head</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Performer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Performer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:50">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Face</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Performer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:51">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:51" to="00:01:53" dur="1.77">
+          <div type="DetectedLabel" when="00:01:52">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:52">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:52">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:52">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:53">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:53">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:53">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:53">
+            <ab>Painting</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:53" to="00:01:56" dur="2.64">
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:54">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:55">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:01:56" to="00:02:05" dur="9.48">
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:56">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:57">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:58">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:01:59">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:00">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:01">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:02">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:03">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:04">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:05">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:05">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:02:05" to="00:02:10" dur="4.17">
+          <div type="DetectedLabel" when="00:02:06">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:06">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:06">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:06">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:06">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:07">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:08">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:09">
+            <ab>Art</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:09">
+            <ab>Halo</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:09">
+            <ab>Painting</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:09">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:09">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:02:10" to="00:02:18" dur="8.78">
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:10">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:11">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Indoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Interior Design</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:12">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:13">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:14">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:15">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:16">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:17">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Audience</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Crowd</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:18">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:02:18" to="00:02:35" dur="16.65">
+          <div type="DetectedLabel" when="00:02:19">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:19">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:19">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:19">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:20">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:20">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:20">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:20">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:21">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:21">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:21">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:22">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:22">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:24">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:24">
+            <ab>Outdoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:25">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:25">
+            <ab>Outdoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:25">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:25">
+            <ab>Outdoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:26">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:26">
+            <ab>Outdoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:26">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:26">
+            <ab>Outdoors</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:27">
+            <ab>Nature</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:27">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:27">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:28">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:29">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:30">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:31">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:31">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:32">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Antique Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:33">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Antique Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Vehicle</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Automobile</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Car</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Transportation</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:34">
+            <ab>Vehicle</ab>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:02:27" to="00:02:34" dur="7.11">
+          <u xml:id="utterance005" ana="#NEUTRAL" corresp="#translation005"><w pos="ART">Der</w> <w pos="ADJA">neu</w> <w pos="ADJA">ernannte</w> <w pos="ADJA">japanische</w> <w pos="NN">Botschafter</w> <persName ref="#pers014"><w pos="NE">Hiroshi</w> <w pos="NE">Oshima</w></persName> <w pos="VVINF">überreichte</w> <w pos="ART">den</w> <w pos="NN">Führer</w> <w pos="APPR">auf</w> <w pos="ART">den</w> <w pos="NN">Berg</w> <w pos="ADJA">hoch</w> <w pos="ART">sein</w> <w pos="NN">Beglaubigungsschreiben</w></u>
+          <ab xml:id="translation005" xml:lang="en" type="translation">Newly appointed Japanese ambassador Hiroshi Oshima presented the leader up the mountain with his credentials</ab>
+        </div>
+        <div type="DetectedShot" from="00:02:35" to="00:02:38" dur="2.97">
+          <div type="DetectedLabel" when="00:02:35">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:35">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:36">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:36">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:37">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Person</ab>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:02:38" to="00:02:56" dur="17.82">
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:38">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:39">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:40">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:41">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:42">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Military Uniform</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Officer</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Person</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Human</ab>
+          </div>
+          <div type="DetectedLabel" when="00:02:43">
+            <ab>Military</ab>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers001">Heinrich Himmler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers001">Heinrich Himmler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers005">Galeazzo Ciano</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers006">Günther Altenburg</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers006">Günther Altenburg</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers003">Hiroshi Ōshima</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers004">Joachim von Ribbentrop</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+          <div type="DetectedPerson" when="00:02:43">
+            <p>
+              <persName ref="#pers002">Adolf Hitler</persName>
+            </p>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:02:56" to="00:03:40" dur="43.64"/>
+        <div type="DetectedSpeech" from="00:03:33" to="00:03:40" dur="6.91">
+          <u xml:id="utterance006" ana="#NEUTRAL" corresp="#translation006"><w pos="ART">Der</w> <w pos="NN">Führer</w> <w pos="VVINF">trifft</w> <w pos="APPR">am</w> <date><w pos="ADJA">ersten</w> <w pos="NE">März</w></date> <w pos="APPR">in</w> <placeName ref="#place002"><w pos="NE">Wien</w></placeName> <w pos="ADV">ein</w><w pos="XY">,</w> <w pos="ART">der</w> <w pos="NN">Beitritt</w> <orgName ref="#org004"><w pos="NE">Bulgarien</w></orgName> <w pos="APPR">bis</w> <w pos="APPR">zum</w> <w pos="NN">Dreimächtepakt</w> <w pos="VAINF">wird</w> <w pos="VVINF">vollzogen</w><w pos="XY">.</w></u>
+          <ab xml:id="translation006" xml:lang="en" type="translation">The Führer arrives in Vienna on March 1st, Bulgaria's accession to the Tripartite Pact is completed.</ab>
+        </div>
+        <div type="DetectedShot" from="00:03:40" to="00:03:42" dur="2.40"/>
+        <div type="DetectedShot" from="00:03:42" to="00:03:44" dur="2.07"/>
+        <div type="DetectedShot" from="00:03:44" to="00:03:47" dur="3.37"/>
+        <div type="DetectedShot" from="00:03:47" to="00:03:48" dur="0.03"/>
+        <div type="DetectedShot" from="00:03:48" to="00:03:52" dur="4.84"/>
+        <div type="DetectedShot" from="00:03:52" to="00:03:54" dur="1.87">
+          <div type="DetectedText" when="00:03:53">
+            <caption>SEIDE</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:03:54" to="00:03:59" dur="5.07"/>
+        <div type="DetectedShot" from="00:03:59" to="00:04:01" dur="1.44"/>
+        <div type="DetectedShot" from="00:04:01" to="00:04:04" dur="3.34"/>
+        <div type="DetectedShot" from="00:04:04" to="00:04:07" dur="2.64"/>
+        <div type="DetectedShot" from="00:04:07" to="00:04:10" dur="2.64"/>
+        <div type="DetectedShot" from="00:04:10" to="00:04:13" dur="3.27"/>
+        <div type="DetectedShot" from="00:04:13" to="00:04:16" dur="3.47"/>
+        <div type="DetectedShot" from="00:04:16" to="00:04:20" dur="3.87"/>
+        <div type="DetectedShot" from="00:04:20" to="00:04:23" dur="2.27"/>
+        <div type="DetectedShot" from="00:04:23" to="00:04:25" dur="2.14"/>
+        <div type="DetectedSpeech" from="00:04:24" to="00:04:32" dur="7.85">
+          <u xml:id="utterance007" ana="#NEUTRAL" corresp="#translation007"><w pos="ART">Der</w> <w pos="NN">Führer</w> <w pos="APPR">auf</w> <w pos="ART">dem</w> <w pos="NN">Balkon</w> <w pos="ART">seines</w> <w pos="NN">Hotels</w> <w pos="APPR">gegen</w> <w pos="PPER">ihn</w> <w pos="NN">Dienst</w> <w pos="NN">Gauleiter</w> <persName ref="#pers011"><w pos="NN">Reichsleiter</w></persName> <persName ref="#pers017"><w pos="NE">Baldur</w> <w pos="NE">von</w> <w pos="NE">Schirach</w></persName><w pos="XY">,</w></u>
+          <ab xml:id="translation007" xml:lang="en" type="translation">The leader on the balcony of his hotel against him serving Gauleiter Reichsleiter Baldur von Schirach,</ab>
+        </div>
+        <div type="DetectedShot" from="00:04:25" to="00:04:27" dur="1.94"/>
+        <div type="DetectedShot" from="00:04:27" to="00:04:33" dur="6.21">
+          <div type="DetectedText" when="00:04:30">
+            <caption>١٣</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:04:33" to="00:04:47" dur="14.11"/>
+        <div type="DetectedShot" from="00:04:47" to="00:04:52" dur="5.14"/>
+        <div type="DetectedShot" from="00:04:52" to="00:05:01" dur="8.47"/>
+        <div type="DetectedShot" from="00:05:01" to="00:05:01" dur="0.50"/>
+        <div type="DetectedShot" from="00:05:01" to="00:05:02" dur="0.57"/>
+        <div type="DetectedShot" from="00:05:02" to="00:05:05" dur="2.60">
+          <div type="DetectedText" when="00:05:04">
+            <caption>JL</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:05:05" to="00:05:13" dur="8.31"/>
+        <div type="DetectedSpeech" from="00:05:05" to="00:05:09" dur="4.45">
+          <u xml:id="utterance008" ana="#NEUTRAL" corresp="#translation008"><w pos="NN">Ankunft</w> <w pos="ART">des</w> <w pos="ADJA">bulgarischen</w> <persName ref="#pers015"><w pos="NN">Ministerpräsidenten</w></persName> <persName ref="#pers021"><w pos="NN">Professor</w></persName> <persName ref="#pers012"><w pos="NE">Doktor</w></persName> <persName ref="#pers013"><w pos="NE">Kilo</w></persName> <w pos="APPR">auf</w> <w pos="ART">dem</w> <w pos="NE">Wiener</w> <w pos="NE">Flugplatz</w></u>
+          <ab xml:id="translation008" xml:lang="en" type="translation">Bulgarian Prime Minister Professor Doctor Kilo arrives at Vienna's airfield</ab>
+        </div>
+        <div type="DetectedShot" from="00:05:13" to="00:05:17" dur="3.54"/>
+        <div type="DetectedShot" from="00:05:17" to="00:05:20" dur="3.67"/>
+        <div type="DetectedShot" from="00:05:20" to="00:05:30" dur="9.78"/>
+        <div type="DetectedSpeech" from="00:05:23" to="00:05:27" dur="4.57">
+          <u xml:id="utterance009" ana="#NEUTRAL" corresp="#translation009"><w pos="APPR">vor</w> <w pos="ART">dem</w> <placeName ref="#place001"><w pos="NN">Schloss</w> <w pos="NE">Bellevue</w></placeName><w pos="XY">,</w> <w pos="PPER">der</w> <w pos="ART">die</w> <w pos="NN">Vertreter</w> <w pos="ART">der</w> <w pos="APPR">am</w> <w pos="NN">Dreimächtepakt</w> <w pos="ADJA">beteiligten</w> <w pos="NN">Nationen</w> <w pos="VVINF">treffen</w><w pos="XY">,</w> <w pos="ADV">ein</w></u>
+          <ab xml:id="translation009" xml:lang="en" type="translation">in front of Bellevue Palace, where representatives of the nations participating in the Tripartite Pact meet, a</ab>
+        </div>
+        <div type="DetectedShot" from="00:05:30" to="00:05:32" dur="2.07"/>
+        <div type="DetectedShot" from="00:05:32" to="00:05:34" dur="1.90"/>
+        <div type="DetectedShot" from="00:05:34" to="00:05:48" dur="13.45"/>
+        <div type="DetectedSpeech" from="00:05:35" to="00:05:42" dur="7.53">
+          <u xml:id="utterance010" ana="#NEUTRAL" corresp="#translation010"><w pos="NE">Rings</w> <w pos="APPR">neben</w> <w pos="ART">dem</w> <persName ref="#pers018"><w pos="NN">Reichsaußenminister</w></persName> <w pos="APPR">von</w> <w pos="NE">Ribbentrop</w><w pos="XY">,</w> <w pos="ART">der</w> <w pos="ADJA">bulgarische</w> <persName ref="#pers025"><w pos="NN">Ministerpräsident</w></persName><w pos="XY">,</w> <persName ref="#pers021"><w pos="NN">Professor</w></persName> <w pos="NE">Doktor</w> <num><w pos="PPER">vieler</w> <w pos="NN">Recht</w></num><w pos="XY">,</w> <w pos="ART">der</w> <w pos="ADJA">italienische</w> <persName ref="#pers007"><w pos="NN">Außenminister</w></persName> <persName ref="#pers008"><w pos="NE">Gaetano</w></persName><w pos="XY">,</w></u>
+          <ab xml:id="translation010" xml:lang="en" type="translation">Standing next to the Reich Foreign Minister of Ribbentrop, the Bulgarian Prime Minister, Professor of Many Laws, the Italian Foreign Minister Gaetano,</ab>
+        </div>
+        <div type="DetectedSpeech" from="00:05:47" to="00:06:24" dur="37.46">
+          <u xml:id="utterance011" ana="#NEUTRAL" corresp="#translation011"><w pos="ART">der</w> <persName ref="#pers018"><w pos="NN">Reichsaußenminister</w></persName><w pos="XY">,</w> <w pos="VVINF">führte</w> <w pos="APPR">in</w> <w pos="ART">seiner</w> <w pos="NN">Rede</w> <w pos="APPR">unter</w> <w pos="PPER">anderem</w> <w pos="APPR">aus</w><w pos="XY">,</w> <w pos="KOUS">dass</w> <w pos="ART">die</w> <w pos="NN">Arbeit</w> <w pos="PPER">aller</w> <w pos="APPR">im</w> <w pos="NN">Dreimächtepakt</w> <num><w pos="ADJA">zusammengeschlossenen</w> <w pos="NN">Völker</w></num> <w pos="ADV">schon</w> <w pos="ADV">heute</w> <w pos="ART">dem</w> <w pos="ADJA">endgültigen</w> <w pos="NN">Siege</w> <w pos="ART">der</w> <w pos="NN">Verbündeten</w> <w pos="VVINF">diene</w><w pos="XY">.</w> <w pos="PPER">Wir</w> <w pos="VVINF">repräsentieren</w><w pos="XY">,</w> <w pos="VVINF">sagte</w> <w pos="ART">der</w> <persName ref="#pers018"><w pos="NN">Reichsaußenminister</w></persName><w pos="XY">,</w> <w pos="ART">die</w> <w pos="ADJA">stärkste</w> <w pos="NN">Macht</w> <w pos="NN">Konstellation</w><w pos="XY">,</w> <w pos="KOUS">wie</w> <w pos="PPER">es</w> <w pos="ADV">wohl</w> <w pos="ADV">je</w> <w pos="APPR">auf</w> <w pos="ART">der</w> <w pos="NN">Erde</w> <w pos="VVINF">gegeben</w> <w pos="VAINF">hat</w><w pos="XY">.</w> <w pos="ART">Die</w> <w pos="NN">Armeen</w> <w pos="VVINF">stehen</w> <w pos="APPR">zum</w> <w pos="NN">Sprung</w> <w pos="ADJA">bereit</w><w pos="XY">,</w> <w pos="APPR">um</w> <orgName ref="#org003"><w pos="NE">England</w></orgName> <w pos="ADV">überall</w> <w pos="ADV">da</w> <w pos="VVINF">anzugreifen</w> <w pos="KON">und</w> <w pos="PTKZU">zu</w> <w pos="VVINF">schlagen</w><w pos="XY">,</w> <w pos="ADV">wo</w> <w pos="PPER">es</w> <w pos="PPER">sich</w> <w pos="VVINF">zeigt</w><w pos="XY">,</w> <w pos="ART">das</w> <w pos="ADJA">politische</w> <w pos="NN">Fundament</w><w pos="XY">,</w> <w pos="APPR">auf</w> <w pos="PPER">dem</w> <w pos="ART">die</w> <w pos="NN">Freiheit</w> <w pos="VVINF">erkämpft</w> <w pos="VAINF">wird</w><w pos="XY">,</w> <w pos="KON">und</w> <w pos="ART">ihr</w> <w pos="NN">Symbol</w> <w pos="VAINF">wird</w> <w pos="PPER">wir</w> <w pos="PPER">alle</w> <w pos="NN">Zeiten</w> <w pos="ART">der</w> <w pos="NN">Dreimächtepakt</w> <w pos="VAINF">sein</w><w pos="XY">.</w> <w pos="NN">Unterzeichnung</w> <w pos="ART">des</w> <w pos="NN">Paktes</w> <w pos="APPR">durch</w> <w pos="ART">die</w> <w pos="NN">Vertreter</w> <w pos="ART">der</w> <w pos="ADJA">einzelnen</w> <w pos="NN">Nationen</w> <w pos="NE">Der</w> <w pos="NE">bulgarische</w> <persName ref="#pers025"><w pos="NE">Ministerpräsident</w></persName><w pos="XY">,</w> <persName ref="#pers021"><w pos="NN">Professor</w></persName> <persName ref="#pers012"><w pos="NE">Doktor</w></persName> <persName ref="#pers013"><w pos="NE">Kilo</w></persName></u>
+          <ab xml:id="translation011" xml:lang="en" type="translation">the Reich Foreign Minister, stated in his speech, among other things, that the work of all peoples united in the Tripartite Pact is already serving the final victory of the allies today. According to the Reich Foreign Minister, we represent the strongest constellation of power that has probably ever existed on earth. The armies are ready to leap to attack and defeat England wherever it appears, the political foundation on which freedom is fought, and its symbol will be the Tripartite Pact for all time. Signing of the pact by the representatives of the individual nations The Prime Minister of Bulgaria, Professor Doctor Kilo</ab>
+        </div>
+        <div type="DetectedShot" from="00:05:48" to="00:05:49" dur="1.53"/>
+        <div type="DetectedShot" from="00:05:49" to="00:05:52" dur="2.97"/>
+        <div type="DetectedShot" from="00:05:52" to="00:05:55" dur="3.24"/>
+        <div type="DetectedShot" from="00:05:55" to="00:06:01" dur="5.47"/>
+        <div type="DetectedShot" from="00:06:01" to="00:06:05" dur="3.54"/>
+        <div type="DetectedShot" from="00:06:05" to="00:06:11" dur="5.97"/>
+        <div type="DetectedShot" from="00:06:11" to="00:06:13" dur="2.80"/>
+        <div type="DetectedShot" from="00:06:13" to="00:06:16" dur="2.84"/>
+        <div type="DetectedShot" from="00:06:16" to="00:06:20" dur="3.87"/>
+        <div type="DetectedShot" from="00:06:20" to="00:06:26" dur="5.74"/>
+        <div type="DetectedShot" from="00:06:26" to="00:06:29" dur="2.87"/>
+        <div type="DetectedShot" from="00:06:29" to="00:06:32" dur="3.24"/>
+        <div type="DetectedSpeech" from="00:06:30" to="00:06:45" dur="14.87">
+          <u xml:id="utterance012" ana="#NEUTRAL" corresp="#translation012"><w pos="APPR">Nach</w> <w pos="ART">der</w> <w pos="ADJA">feierlichen</w> <w pos="NN">Unterzeichnung</w> <w pos="VVINF">gab</w> <w pos="ART">der</w> <w pos="ADJA">bulgarische</w> <persName ref="#pers025"><w pos="NN">Ministerpräsident</w></persName> <w pos="ART">eine</w> <w pos="NN">Erklärung</w> <w pos="APPR">ab</w><w pos="XY">.</w> <persName ref="#pers016"><w pos="NE">Bulganin</w> <w pos="NE">Hoppe</w></persName> <w pos="APPR">als</w> <w pos="ADJA">treuer</w> <w pos="NN">Partner</w> <w pos="ART">des</w> <w pos="NN">Dreimächtepakt</w> <w pos="VAINF">ist</w><w pos="XY">,</w> <w pos="ADV">so</w> <w pos="VVINF">führt</w> <w pos="PPER">er</w> <w pos="APPR">aus</w><w pos="XY">,</w> <w pos="ART">seinen</w> <w pos="NN">Teil</w> <w pos="PPER">dazu</w> <w pos="VVINF">beizutragen</w><w pos="XY">,</w> <w pos="KOUS">dass</w> <w pos="ART">ein</w> <w pos="ADJA">ständiger</w> <w pos="NN">Friede</w> <w pos="KON">und</w> <w pos="ART">eine</w> <w pos="ADJA">gerechte</w> <w pos="NN">Neuordnung</w> <w pos="APPR">in</w> <placeName ref="#place007"><w pos="NE">Europa</w></placeName> <w pos="VVINF">herbeigeführt</w> <w pos="VAINF">wird</w><w pos="XY">.</w></u>
+          <ab xml:id="translation012" xml:lang="en" type="translation">After the signing ceremony, the Bulgarian Prime Minister made a statement. Bulganin Hoppe, as a loyal partner of the Tripartite Pact, he explains, is doing his part to bring about permanent peace and a just reorganization in Europe.</ab>
+        </div>
+        <div type="DetectedShot" from="00:06:32" to="00:06:35" dur="2.44"/>
+        <div type="DetectedShot" from="00:06:35" to="00:06:36" dur="1.87"/>
+        <div type="DetectedShot" from="00:06:36" to="00:06:42" dur="5.84"/>
+        <div type="DetectedShot" from="00:06:42" to="00:06:45" dur="2.80"/>
+        <div type="DetectedShot" from="00:06:45" to="00:06:54" dur="8.54"/>
+        <div type="DetectedShot" from="00:06:54" to="00:06:57" dur="3.44"/>
+        <div type="DetectedShot" from="00:06:57" to="00:06:57" dur="0.03"/>
+        <div type="DetectedShot" from="00:06:57" to="00:06:58" dur="0.97"/>
+        <div type="DetectedShot" from="00:06:58" to="00:07:03" dur="4.57"/>
+        <div type="DetectedSpeech" from="00:06:59" to="00:07:04" dur="5.46">
+          <u xml:id="utterance013" ana="#NEUTRAL" corresp="#translation013"><w pos="ART">Die</w> <w pos="NN">Fahrt</w> <w pos="ART">des</w> <w pos="NN">Führers</w> <w pos="APPR">zum</w> <placeName ref="#place001"><w pos="NN">Schloss</w> <w pos="NE">Bellevue</w></placeName><w pos="XY">,</w> <w pos="PPER">der</w><w pos="XY">,</w> <w pos="ADV">wo</w> <w pos="PPER">er</w> <w pos="APPR">nach</w> <w pos="NN">Abschluss</w> <w pos="ART">des</w> <w pos="NN">Staatsaktes</w> <w pos="ART">einen</w> <w pos="NN">Empfang</w> <w pos="VVINF">gab</w><w pos="XY">.</w></u>
+          <ab xml:id="translation013" xml:lang="en" type="translation">The guide's drive to Bellevue Palace, the one where he gave a reception after the completion of the state act.</ab>
+        </div>
+        <div type="DetectedShot" from="00:07:03" to="00:07:05" dur="1.97"/>
+        <div type="DetectedShot" from="00:07:05" to="00:07:07" dur="2.54"/>
+        <div type="DetectedShot" from="00:07:08" to="00:07:16" dur="8.41"/>
+        <div type="DetectedShot" from="00:07:16" to="00:07:22" dur="5.84"/>
+        <div type="DetectedSpeech" from="00:07:17" to="00:07:21" dur="3.17">
+          <u xml:id="utterance014" ana="#NEUTRAL" corresp="#translation014"><w pos="ART">Der</w> <persName ref="#pers023"><w pos="NN">Führer</w></persName> <w pos="VVINF">begrüßt</w> <w pos="ART">die</w> <w pos="NN">Vertreter</w> <w pos="ART">der</w> <w pos="ADJA">beteiligten</w> <w pos="NN">Nationen</w></u>
+          <ab xml:id="translation014" xml:lang="en" type="translation">The leader greets the representatives of the participating nations</ab>
+        </div>
+        <div type="DetectedShot" from="00:07:22" to="00:07:30" dur="8.47"/>
+        <div type="DetectedShot" from="00:07:30" to="00:07:35" dur="4.91"/>
+        <div type="DetectedSpeech" from="00:07:31" to="00:07:42" dur="11.70">
+          <u xml:id="utterance015" ana="#NEUTRAL" corresp="#translation015"><w pos="ART">Der</w> <w pos="NN">Beitritt</w> <orgName ref="#org004"><w pos="NE">Bulgarien</w></orgName> <w pos="NE">Dreimächtepakt</w> <w pos="VAINF">wird</w> <w pos="APPR">in</w> <w pos="ART">der</w> <num><w pos="ADJA">gesamten</w></num> <w pos="NN">Welt</w> <w pos="NN">Presse</w> <w pos="APPR">als</w> <w pos="ART">eine</w> <w pos="ADJA">neue</w> <w pos="ADJA">schwere</w> <w pos="NN">Niederlage</w> <orgName ref="#org003"><w pos="NE">England</w></orgName> <w pos="KON">und</w> <w pos="APPR">als</w> <w pos="ADJA">neuer</w> <w pos="KON">und</w> <w pos="ADJA">großer</w> <w pos="NN">Erfolg</w> <w pos="APPR">für</w> <w pos="ART">die</w> <w pos="NN">Friedenspolitik</w> <w pos="ART">der</w> <orgName ref="#org005"><w pos="NN">Achsen</w> <w pos="NN">Mächte</w></orgName> <w pos="VVINF">bezeichnet</w><w pos="XY">.</w></u>
+          <ab xml:id="translation015" xml:lang="en" type="translation">The accession of Bulgaria to the Tripartite Pact is described throughout the world press as a new serious defeat of England and a new and great success for the peace policy of the Axis powers.</ab>
+        </div>
+        <div type="DetectedShot" from="00:07:35" to="00:07:47" dur="11.71"/>
+        <div type="DetectedShot" from="00:07:47" to="00:07:50" dur="3.24"/>
+        <div type="DetectedShot" from="00:07:50" to="00:07:53" dur="3.14"/>
+        <div type="DetectedShot" from="00:07:53" to="00:07:58" dur="4.30"/>
+        <div type="DetectedShot" from="00:07:58" to="00:07:59" dur="1.53"/>
+        <div type="DetectedShot" from="00:07:59" to="00:08:06" dur="7.01"/>
+        <div type="DetectedShot" from="00:08:06" to="00:08:13" dur="6.24"/>
+        <div type="DetectedSpeech" from="00:08:07" to="00:08:25" dur="17.99">
+          <u xml:id="utterance016" ana="#NEUTRAL" corresp="#translation016"><w pos="ART">Die</w> <w pos="ADJA">fünfte</w> <w pos="ADJA">internationale</w> <w pos="NN">Wintersport</w> <w pos="NN">Woche</w> <w pos="APPR">in</w> <placeName ref="#place004"><w pos="NE">Garmisch</w> <w pos="NE">Partenkirchen</w></placeName> <w pos="VVINF">nahm</w> <w pos="APPR">trotz</w> <w pos="ART">des</w> <w pos="NN">Krieges</w> <w pos="ART">einen</w> <w pos="ADJA">glänzenden</w> <w pos="NN">Verlauf</w> <num><w pos="CARD">13</w> <w pos="NN">Nationen</w></num> <w pos="VAINF">waren</w> <w pos="APPR">an</w> <w pos="ART">den</w> <w pos="ADJA">verschiedenen</w> <w pos="NN">Wettkämpfen</w> <w pos="ADJA">beteiligt</w><w pos="XY">,</w> <w pos="APPR">von</w> <w pos="ART">den</w> <num><w pos="CARD">13</w> <w pos="NN">Haupt</w> <w pos="NN">Entscheidungen</w></num> <w pos="VAINF">konnte</w> <orgName ref="#org002"><w pos="NE">Deutschland</w></orgName> <w pos="VVINF">gewinnen</w><w pos="XY">.</w> <w pos="NN">Vorlauf</w></u>
+          <ab xml:id="translation016" xml:lang="en" type="translation">The fifth international winter sports week in Garmisch Partenkirchen took a brilliant course despite the war 13 nations were involved in the various competitions, of the 13 main decisions Germany was able to win. preflow</ab>
+        </div>
+        <div type="DetectedShot" from="00:08:13" to="00:08:15" dur="2.77"/>
+        <div type="DetectedShot" from="00:08:16" to="00:08:23" dur="7.47">
+          <div type="DetectedText" when="00:08:19">
+            <caption>125</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:08:23" to="00:08:26" dur="2.84"/>
+        <div type="DetectedShot" from="00:08:26" to="00:08:33" dur="7.14"/>
+        <div type="DetectedShot" from="00:08:33" to="00:08:34" dur="1.20"/>
+        <div type="DetectedShot" from="00:08:34" to="00:08:38" dur="3.24">
+          <div type="DetectedText" when="00:08:35">
+            <caption>123</caption>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:08:37" to="00:08:45" dur="7.54">
+          <u xml:id="utterance017" ana="#NEUTRAL" corresp="#translation017"><w pos="NN">Sieger</w> <w pos="VAINF">wurde</w> <persName ref="#pers024"><w pos="NE">Rudi</w> <w pos="NE">Kranz</w></persName><w pos="XY">,</w> <persName ref="#pers010"><w pos="NE">Rudi</w></persName> <w pos="VAINF">kannst</w> <w pos="KON">und</w> <w pos="ART">seine</w> <w pos="NN">Schwester</w> <persName ref="#pers019"><w pos="NE">Christel</w></persName><w pos="XY">,</w> <w pos="PPER">die</w> <w pos="ART">den</w> <w pos="NN">Torlauf</w> <w pos="ART">der</w> <w pos="NN">Frauen</w> <w pos="VVINF">gewann</w><w pos="XY">.</w> <persName ref="#pers022"><w pos="NE">Abruzzen</w></persName></u>
+          <ab xml:id="translation017" xml:lang="en" type="translation">The winner was Rudi Kranz, Rudi can and his sister Christel, who won the women's goal run. abruzzo</ab>
+        </div>
+        <div type="DetectedShot" from="00:08:38" to="00:08:39" dur="1.77"/>
+        <div type="DetectedShot" from="00:08:39" to="00:08:42" dur="2.84"/>
+        <div type="DetectedShot" from="00:08:42" to="00:08:46" dur="3.84"/>
+        <div type="DetectedShot" from="00:08:46" to="00:08:47" dur="0.83"/>
+        <div type="DetectedShot" from="00:08:47" to="00:08:58" dur="10.54"/>
+        <div type="DetectedShot" from="00:08:58" to="00:09:01" dur="3.14"/>
+        <div type="DetectedShot" from="00:09:01" to="00:09:03" dur="2.37"/>
+        <div type="DetectedShot" from="00:09:03" to="00:09:07" dur="4.27">
+          <div type="DetectedText" when="00:09:04">
+            <caption>68</caption>
+          </div>
+        </div>
+        <div type="DetectedShot" from="00:09:07" to="00:09:11" dur="3.54"/>
+        <div type="DetectedShot" from="00:09:11" to="00:09:16" dur="5.27"/>
+        <div type="DetectedShot" from="00:09:16" to="00:09:20" dur="3.60"/>
+        <div type="DetectedSpeech" from="00:09:18" to="00:09:19" dur="0.65">
+          <u xml:id="utterance018" ana="#NEUTRAL" corresp="#translation018">
+            <placeName ref="#place006">
+              <w pos="NE">Deutschland</w>
+            </placeName>
+          </u>
+          <ab xml:id="translation018" xml:lang="en" type="translation">germany</ab>
+        </div>
+        <div type="DetectedShot" from="00:09:20" to="00:09:22" dur="2.10"/>
+        <div type="DetectedShot" from="00:09:22" to="00:09:25" dur="3.34">
+          <div type="DetectedText" when="00:09:22">
+            <caption>24</caption>
+          </div>
+        </div>
+        <div type="DetectedSpeech" from="00:09:23" to="00:09:30" dur="6.28">
+          <u xml:id="utterance019" ana="#NEUTRAL" corresp="#translation019"><w pos="ART">Den</w> <w pos="NN">Spezial</w> <w pos="NN">Sprung</w> <w pos="NN">Lauf</w> <w pos="VVINF">gewann</w> <w pos="ART">der</w> <w pos="ADJA">deutsche</w> <w pos="NN">Meister</w> <persName ref="#pers020"><w pos="NE">Josef</w> <w pos="NE">Bradl</w></persName> <w pos="APPR">mit</w> <w pos="ART">einer</w> <w pos="NN">Weite</w> <w pos="APPR">von</w> <num><w pos="CARD">84</w> <w pos="NN">Metern</w></num><w pos="XY">.</w></u>
+          <ab xml:id="translation019" xml:lang="en" type="translation">The special jump run was won by German champion Josef Bradl with a width of 84 meters.</ab>
+        </div>
+        <div type="DetectedShot" from="00:09:25" to="00:09:27" dur="1.77"/>
+        <div type="DetectedShot" from="00:09:27" to="00:09:35" dur="7.97"/>
+      </div>
+      <div type="EndCredits" from="00:06:36" to="00:06:42" dur="00:00:05">
+        <div type="DetectedShot" from="00:06:36" to="00:06:42" dur="5.84"/>
+      </div>
+    </body>
+  </text>
+</TEI>
